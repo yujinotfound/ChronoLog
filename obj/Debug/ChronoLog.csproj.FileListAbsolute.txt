@@ -1,0 +1,11 @@
+C:\Users\DILG-RO12-MUTYA\Source\Repos\ChronoLog-Repo\ChronoLog\bin\Debug\ChronoLog.exe.config
+C:\Users\DILG-RO12-MUTYA\Source\Repos\ChronoLog-Repo\ChronoLog\bin\Debug\ChronoLog.exe
+C:\Users\DILG-RO12-MUTYA\Source\Repos\ChronoLog-Repo\ChronoLog\bin\Debug\ChronoLog.pdb
+C:\Users\DILG-RO12-MUTYA\Source\Repos\ChronoLog-Repo\ChronoLog\obj\Debug\ChronoLog.csproj.AssemblyReference.cache
+C:\Users\DILG-RO12-MUTYA\Source\Repos\ChronoLog-Repo\ChronoLog\obj\Debug\ChronoLog.LogInGUI.resources
+C:\Users\DILG-RO12-MUTYA\Source\Repos\ChronoLog-Repo\ChronoLog\obj\Debug\ChronoLog.Properties.Resources.resources
+C:\Users\DILG-RO12-MUTYA\Source\Repos\ChronoLog-Repo\ChronoLog\obj\Debug\ChronoLog.csproj.GenerateResource.cache
+C:\Users\DILG-RO12-MUTYA\Source\Repos\ChronoLog-Repo\ChronoLog\obj\Debug\ChronoLog.csproj.CoreCompileInputs.cache
+C:\Users\DILG-RO12-MUTYA\Source\Repos\ChronoLog-Repo\ChronoLog\obj\Debug\ChronoLog.exe
+C:\Users\DILG-RO12-MUTYA\Source\Repos\ChronoLog-Repo\ChronoLog\obj\Debug\ChronoLog.pdb
+C:\Users\DILG-RO12-MUTYA\source\repos\ChronoLog-Repo\ChronoLog\obj\Debug\ChronoLog.ChronoControlCenter.resources
